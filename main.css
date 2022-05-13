@@ -1,0 +1,32 @@
+body {
+    background-color:aliceblue ;
+    max-width: 50%;
+}
+
+.index-img {
+    width: 100%;
+    height: auto;
+}
+
+/* I combined the similar properties of .main-heading and .list-heading */
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+
+.main-heading {
+    font-size: xx-large;
+}
+
+.list-heading {
+    font-size: large;
+}
+
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: blue;
+}
